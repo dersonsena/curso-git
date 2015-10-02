@@ -1,7 +1,16 @@
 <?php
- echo "OK";
 
-return TRUE;
+function abrirAlgumaCOisa()
+{
 
+}
 
- ?>
+function voaMais()
+{
+
+}
+
+voaMais();
+abrirAlgumaCOisa();
+
+echo 'Tudo certo!';
