@@ -1,1 +1,7 @@
-<?php echo "OK" ?>
+<?php
+ echo "OK";
+
+return TRUE;
+
+
+ ?>
